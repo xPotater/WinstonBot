@@ -1,0 +1,7 @@
+{
+    "token": "*",
+    "prefix" : "!",
+
+    "nlu_key": "*",
+    "pi_key": "*"
+}
